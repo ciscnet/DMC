@@ -1,0 +1,37 @@
+
+
+.navbar{
+	background-color: black;
+}
+
+.btn-primary{
+	background-color: black;
+}
+
+.btn-light{
+	border-color: #007bff;
+}
+
+
+
+.jumbotron {
+	padding: 190px 0 120px 0;
+	background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url('../images/conf.jpeg') no-repeat center / cover;
+	color: #fff;
+}
+
+#bot{
+	font-weight: bold;
+}
+
+.esperti .card{
+	margin: 20px 0 20px 0;
+}
+
+.esperti .card-body{
+	height: 350px;
+}
+
+.esperti {
+	padding: 30px 0 10px 0;
+}
